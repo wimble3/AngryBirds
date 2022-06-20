@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{23B9004E-6038-4127-8AD4-500EAAAF63C7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AngryBirdsTask.cs">
+    <Files>
+      <File FileName="Program.cs" Line="67" Column="22" />
+      <File FileName="AngryBirdsTask.cs" Line="16" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AngryBirds" expanded="True">
+            <Node name="AngryBirds" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="AngryBirdsTask.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AngryBirds PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
